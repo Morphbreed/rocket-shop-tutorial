@@ -1,4 +1,4 @@
-import './index.html';
+import './index.html'
 
 Template.homeIndex.helpers({
     featured: function() {
