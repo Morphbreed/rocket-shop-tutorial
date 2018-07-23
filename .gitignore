@@ -1,0 +1,6 @@
+node_modules/
+.meteor/
+public/images/
+package-lock.json
+settings.json
+settings.development.json
