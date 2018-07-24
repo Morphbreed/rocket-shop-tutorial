@@ -1,4 +1,3 @@
-import { Tracker } from 'meteor/tracker'
 import '../lib/router'
 import './main.html'
 import './config/accounts'
