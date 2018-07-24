@@ -1,5 +1,7 @@
+import { Tracker } from 'meteor/tracker'
 import '../lib/router'
 import './main.html'
+import './config/accounts'
 import * as accounting from './scripts/accounting'
 import * as showdown from './scripts/showdown'
    
