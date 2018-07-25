@@ -1,4 +1,5 @@
 import '../lib/router'
+import '../lib/permissions'
 import './main.html'
 import './config/accounts'
 import * as accounting from './scripts/accounting'
